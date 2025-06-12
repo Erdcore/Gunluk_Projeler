@@ -1,3 +1,3 @@
-# Basit Caesar Şifreleyici (2025-06-12)
+# Basit Caesar Şifreleyici
 
 Bu proje günlük yazılım pratiği kapsamında hazırlanmıştır.
